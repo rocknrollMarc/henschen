@@ -39,7 +39,7 @@ published: true
   <div class="row">
     <div class="col-md-10 col-md-offset-1 col-sm-12">
       <img src="{{ 'cropped-henschenKOPF.png' | theme_image_url }}" alt="Welcome to my Office!!!">
-      <nav class="navbar navbar-default" role="navigation">
+      <nav class="navbar fixed navbar-default" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
@@ -64,13 +64,22 @@ published: true
 
   <!-- Page Content -->
   {% block 'main' %}
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1 col-sm-12">
-      <img src="{{ 'ueberschift.jpg' | theme_image_url | resize: '400x300' }}" alt = "Joh.C.Henschen" />
-      <img src="{{ 'adresse.png' | theme_image_url | resize: '400x300' }}" alt = "Joh.C.Henschen" />
-    </div>
+{% if page.slug != "index" %}
+  <h2>{{ page.title | escape }}</h2>
+{% endif %}
+{% block 'main' %}
+  <div class="jumbotron">
+    <h1>Life's to short not to get away for awhile!</h1>
+    <p class="sub-title">
+      Learn about cool places to see abroad, interesting things to eat, and little travel tips you won't believe you lived without.
+    </p>
+    <p>
+      <a href="/presse" class="btn btn-primary btn-lg">
+        Browse our articles
+      </a>
+    </p>
   </div>
-</div>
+{% endblock %}
 {% endblock %}
 {% include 'footer' %}
 

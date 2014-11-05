@@ -15,6 +15,7 @@ group :development do
 end
 
 group :misc do
+  gem 'binding_of_caller'
   # Add your extra gems here
   # gem 'susy', require: 'susy'
   # gem 'redcarpet', require: 'redcarpet'
