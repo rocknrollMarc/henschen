@@ -215,3 +215,203 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 2.5ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:10:26 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:10:30 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:12:46 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:12:50 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/ueberschift.jpg" at 2014-11-05 15:12:50 +0100[0m
+Detecting locale DE
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted HEAD "/ueberschift.jpg" at 2014-11-05 15:12:55 +0100[0m
+Detecting locale DE
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted HEAD "/ueberschift.jpg" at 2014-11-05 15:12:55 +0100[0m
+Detecting locale DE
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:14:41 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:15:16 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:15:44 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:16:41 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:16:45 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:17:30 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:17:47 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:18:12 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:18:15 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:18:26 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:21:03 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:22:18 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:23:57 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:26:18 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:29:32 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:29:37 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:30:41 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:30:50 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:30:57 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:30:58 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:31:53 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:32:23 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:32:39 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:36:47 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:36:50 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:36:52 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:37:48 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:37:51 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:38:14 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:38:18 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:38:49 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:38:52 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:35:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:39:48 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:39:55 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown tag 'endeditable_text' - ./app/views/pages/about.liquid:33:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:40:26 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:40:28 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:41:04 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:41:08 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:41:57 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:42:27 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 15:42:30 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:43:05 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:43:10 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:43:25 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:43:28 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:43:48 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:43:52 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:44:22 +0100

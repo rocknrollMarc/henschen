@@ -22,6 +22,7 @@ published: true
 {% extends parent %}
 
 {% block main %}
+{% include 'img_box' with caption, photo, size: "400x" %}
 {% editable_text "about_body", rows: 20 %}
  <p>Joh. C. Henschen ist ein Bremer Überseespeditionsunternehmen und Lagerhaus mit langjährigen Erfahrungen. Durch das umfangreiche Wissen und die Warenkunde der Mitarbeiter im Bereich Export, Import und Lagerei wird das inhabergeführte Unternehmen den Anforderungen der Verlader und Importeure immer gerecht.
 
