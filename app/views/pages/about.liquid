@@ -27,6 +27,9 @@ published: true
   <a href="{{ 'about1.png' | theme_image_url | resize: '800x' }}">
     <img src="{{ 'about1.png' | theme_image_url | resize: '400x'  }}" alt="Gyeongbokgung" />
   </a>
+
+  {% editable_text "about_body", rows: 20 %}
+
   <p>Gyeongbokgung, Seoul</p>
 </div>
 
@@ -36,5 +39,5 @@ published: true
 
     Die Schwerpunkte im Export liegen in den Relationen Südamerika, Mittelamerika, USA, Russland sowie Fernost.
   </p>
-
+  {% endeditable_text %}
 {% endblock %}
