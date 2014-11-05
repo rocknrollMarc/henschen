@@ -22,18 +22,22 @@ position: 2
 {% extends about %}
 
 {% block main %}
-  <div class="posts">
+  <div class="row posts">
     {% for post in contents.about %}
-      <div class="post-listing">
-        {% if post.featured_image.url %}
-          <img src="{{ post.featured_image.url | resize: '400x200#' }}" alt="{{ post.title }} ">
-        {% endif %}
+    <div class="post-listing col-sm-6 col-md-4">
+      <div class="thumbnail">
+          {% if post.featured_image.url %}
+            <img src="{{ post.featured_image.url | resize: '400x200#' }}" alt="{{ post.title }} ">
+          {% endif %}
         <div class="caption">
           <h3>{{ post.title }}</h3>
           <div class="teaser">{{ post.teaser }}</div>
-          <p><a href="/posts/{{ post._slug }}">Mehr Lesen</a></p>
+          <p><a href="/posts/{{ post._slug }}" class="btn btn-primary">Mehr Lesen</a></p>
           </div>
         </div>
+      </div>
+      {% cycle  '', '<div class="clearfix visible-sm">&nbsp;</div>' %}
+      {% cycle '', '', '<div class="clearfix hidden-sm hidden-xs">&nbsp;</div>'  %}
     {% endfor %}
   </div>
 {% endblock %}

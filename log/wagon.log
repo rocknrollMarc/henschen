@@ -548,3 +548,54 @@ Found page "Presse" [Presse]
 [0;32;49mCompleted 200 OK in 10.5ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-11-05 16:25:46 +0100
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:25:51 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+[0;31;49m[ERROR] undefined method `entries' for nil:NilClass - ./app/views/pages/Presse.liquid:22:in `Presse'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 16:26:20 +0100
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:26:22 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 16:27:10 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 16:27:28 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 16:28:44 +0100
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:28:48 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 16:29:39 +0100
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:29:44 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:30:34 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:31:30 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.3ms
+
+[0m
