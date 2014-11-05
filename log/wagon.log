@@ -117,3 +117,101 @@ Found page "Home page" [index]
 [0m
 * Reloaded "pages", "snippets" at 2014-11-05 15:02:21 +0100
 * Reloaded "pages", "snippets" at 2014-11-05 15:02:59 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:04:25 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:04:35 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:05:10 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:05:15 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.9ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:05:20 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:05:22 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:06:06 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:06:08 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:06:22 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:06:25 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:06:33 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:06:34 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:07:12 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:07:16 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-05 15:08:53 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:08:56 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:08:58 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:08:59 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:09:06 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 15:09:12 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
