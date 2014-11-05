@@ -415,3 +415,27 @@ Found page "About" [about]
 * Reloaded "pages", "snippets" at 2014-11-05 15:43:48 +0100
 * Reloaded "pages", "snippets" at 2014-11-05 15:43:52 +0100
 * Reloaded "pages", "snippets" at 2014-11-05 15:44:22 +0100
+[0;97;49mStarted GET "/" at 2014-11-05 15:45:46 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 15:45:47 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2014-11-05 15:47:18 +0100
+* Reloaded "content_entries" at 2014-11-05 15:47:18 +0100
+* Reloaded "content_types", "content_entries" at 2014-11-05 15:49:40 +0100
+* Reloaded "content_types", "content_entries" at 2014-11-05 15:50:28 +0100
+* Reloaded "content_entries" at 2014-11-05 15:54:16 +0100
