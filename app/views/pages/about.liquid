@@ -1,0 +1,33 @@
+---
+title: About
+
+# true if the page is included in the menu
+listed: true
+# true if the page is published
+published: true
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# content type that this page is templatizing
+# content_type: "<slug of one of the content types>"
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+---
+{% extends parent %}
+
+{% block main %}
+
+  <p>Joh. C. Henschen ist ein Bremer Überseespeditionsunternehmen und Lagerhaus mit langjährigen Erfahrungen. Durch das umfangreiche Wissen und die Warenkunde der Mitarbeiter im Bereich Export, Import und Lagerei wird das inhabergeführte Unternehmen den Anforderungen der Verlader und Importeure immer gerecht.
+
+    Die immer komplexer werdende globale Logistik wird durch ein weltweites Netzwerk von Agenten und Partnern gestützt.
+
+    Die Schwerpunkte im Export liegen in den Relationen Südamerika, Mittelamerika, USA, Russland sowie Fernost.
+  </p>
+
+{% endblock %}
