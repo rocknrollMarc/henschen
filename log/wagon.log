@@ -439,3 +439,112 @@ Unable to resize on the fly: nil
 * Reloaded "content_types", "content_entries" at 2014-11-05 15:49:40 +0100
 * Reloaded "content_types", "content_entries" at 2014-11-05 15:50:28 +0100
 * Reloaded "content_entries" at 2014-11-05 15:54:16 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 15:59:10 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 16:01:02 +0100
+* Reloaded "pages", "snippets" at 2014-11-05 16:10:47 +0100
+[0;97;49mStarted GET "/about" at 2014-11-05 16:10:54 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:10:57 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 130.6ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 16:11:09 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:11:10 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.3ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:21:59 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.0ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:22:04 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.9ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:23:02 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.0ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-05 16:23:40 +0100
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:23:42 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2014-11-05 16:23:49 +0100[0m
+Detecting locale DE
+Found page "About" [about]
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:23:50 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-05 16:23:51 +0100[0m
+Detecting locale DE
+Found page "Home page" [index]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+[0;97;49mStarted GET "/Presse" at 2014-11-05 16:23:53 +0100[0m
+Detecting locale DE
+Found page "Presse" [Presse]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
